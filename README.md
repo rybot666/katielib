@@ -1,0 +1,2 @@
+# `katielib`
+A small set of utilities, mainly focused around macros (and the permission caching bug). Everything with a `katie_lib:api` prefix is public API, everything else is implementation details. Read comments in API files for documentation.

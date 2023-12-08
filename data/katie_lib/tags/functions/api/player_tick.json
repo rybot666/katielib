@@ -1,0 +1,7 @@
+{
+    "__doc": [
+        "This tag is run once per tick with the executor as an arbitrary online player.",
+        "Runs while time is frozen using `/tick freeze` as long as there is an online player"
+    ],
+    "values": []
+}
